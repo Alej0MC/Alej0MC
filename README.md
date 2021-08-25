@@ -1,4 +1,4 @@
-### Hi there I'm Alejandro 👋
+### Hi there, I'm Alejandro 👋
 
 <!--
 **Alej0MC/Alej0MC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
