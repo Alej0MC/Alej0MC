@@ -1,4 +1,11 @@
-### Hi there, I'm Alejandro 👋
+![Alt Text](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)
+
+## Hi there, I'm Alejandro 👋
+
+### I am a mechanical engineer and a 10th semester student of industrial engineering. I am currently working with Python, MySql and Qt designer.
+### 🌱 I’m currently learning Java, JavaScript, HTML/CSS.
+#### 📫 How to reach me: 
+alemecu06gmail.com
 
 <!--
 **Alej0MC/Alej0MC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
