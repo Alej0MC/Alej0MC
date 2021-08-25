@@ -5,7 +5,9 @@
 ### I am a mechanical engineer and a 10th semester student of industrial engineering. I am currently working with Python, MySql and Qt designer.
 ### 🌱 I’m currently learning Java, JavaScript, HTML/CSS.
 #### 📫 How to reach me: 
-alemecu06gmail.com
+[alemecu06gmail.com](alemecu06gmail.com)
+
+[Linkedin](https://www.linkedin.com/in/alejandro-mendoza-7264121a1)
 
 <!--
 **Alej0MC/Alej0MC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
